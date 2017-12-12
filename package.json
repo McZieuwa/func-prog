@@ -1,0 +1,16 @@
+{
+  "name": "fisby",
+  "version": "1.0.0",
+  "description": "functional programming with a better understanding",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/McZieuwa/git_tutorial.git",
+    "type": "git"
+  },
+  "author": "McZieuwa",
+  "license": "MIT",
+  "dependencies": {
+    "immutable-ext": "^1.1.2",
+    "ramda": "^0.25.0"
+  }
+}
